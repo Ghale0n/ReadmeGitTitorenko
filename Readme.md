@@ -48,7 +48,7 @@ Git - это одна из реализаций распределённых с�
 
 ## Ветки в Git
 
-![ВЕТКИ](https://www.123rf.com/photo_122281384_dry-apricot-tree-branch-isolated-on-white.html?vti=mzemnbj1mqr2ko4z3b-1-9.jpg)
+![ВЕТКИ](%D0%B2%D0%B5%D1%82%D0%BA%D0%B0.png.png)
 
 ### Создание ветки
 
